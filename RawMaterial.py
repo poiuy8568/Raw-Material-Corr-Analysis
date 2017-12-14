@@ -3,7 +3,7 @@ from sklearn.linear_model import LinearRegression
 import pandas as pd
 from matplotlib import style
 style.use('ggplot')
-
+#Any file path!
 f = open('C:\\Users\\童安弘\\Desktop\\資料夾們\\財報狗\\原物料相關性分析\\LME_現貨_銅.csv')
 f2 = open('C:\\Users\\童安弘\\Desktop\\資料夾們\\財報狗\\原物料相關性分析\\歷史股價.csv')
 
